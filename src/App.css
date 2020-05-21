@@ -1,0 +1,19 @@
+body {
+  margin:0; 
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 960px) {
+  .container {
+    width: 960px;
+  }
+}
+
+.MuiFormControl-marginNormal {
+  /* background-color: rgba(224, 224, 224, 0.644); */
+  margin-left: 10px !important;
+}
