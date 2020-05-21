@@ -8,7 +8,7 @@ import {
 } from '@material-ui/pickers';
 
 export default function DatePicker(props) {
-    const [selectedDate, setSelectedDate] = useState(new Date('10/10/2010'));
+    const [selectedDate, setSelectedDate] = useState(new Date('2003/07'));
     const { label, id, variant, format, margin } = props;
     const handleDateChange = (date) => {
       setSelectedDate(date);

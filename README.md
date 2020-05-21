@@ -1,5 +1,4 @@
-##### Projeto SUPERO, Google Books
-
+##### Projeto teste de conhecimento, consultando a api do google books 
 ##### Tecnologias utilizadas:
 
 ###### React
